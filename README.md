@@ -1,12 +1,19 @@
 ## Bem-vindo(a) ao meu perfil!😁👋
 
+#### Me chamo Giovanna Nobre, uma estudante apaixonada por tecnologia e sempre pronta para aprender e colaborar! 🚀
+
+▪️ Sou formada no curso Técnico em Informática para Internet, pelo Instituto Federal de São Paulo - Campus Avançado São Miguel Paulista. Onde fui bolsista, tanto de ensino quanto de extensão, pelo projeto Meninas na Ciência, em que pude ampliar minhas habilidades técnicas e interpessoais.
+
+▪️ Estudante de Análise e Desenvolvimento de Sistemas (ADS), pela Universidade Nove de Julho (Uninove) e com um forte interesse em desenvolvimento web.
+
+▪️ Atualmente, sou estágiaria de TI, com foco em análise e gerenciamento de projetos.
+
+## Estatísticas📈
  <div>
    <a href="https://github.com/GiovannaNobre">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovannaNobre&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaNobre&layout=compact&langs_count=6&theme=radical"/>
 </div>
-
-<br>
 
 ### Principais tecnologias utilizadas:
 
@@ -18,8 +25,6 @@
   <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
-
-<br>
 
 ### Para saber mais sobre mim e meu perfil profissional me segue nas redes abaixo!
  
