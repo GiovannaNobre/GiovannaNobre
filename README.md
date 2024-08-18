@@ -6,7 +6,7 @@
 
 ▪️ Estudante de Análise e Desenvolvimento de Sistemas (ADS), pela Universidade Nove de Julho (Uninove) e com um forte interesse em desenvolvimento web.
 
-▪️ Atualmente, sou estágiaria de TI, com foco em análise e gerenciamento de projetos.
+▪️ Atualmente, sou estágiaria de TI, com foco em análise e gerenciamento de projetos, pela empresa Winover Contact Center.
 
 ## Estatísticas📈
  <div>
