@@ -35,4 +35,5 @@
 </div>
 
 ##
-![Snake animation](https://github.com/GiovannaNobre/.github/output/github-snake.gif)
+![Snake animation](https://github.com/GiovannaNobre/GiovannaNobre/blob/output/github-snake.gif)
+
